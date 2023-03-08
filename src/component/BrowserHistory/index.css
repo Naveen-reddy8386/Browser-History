@@ -1,0 +1,27 @@
+nav {
+  background-color: #3367d6;
+  display: flex;
+  justify-content: space-around;
+  padding: 15px;
+}
+
+.container {
+  display: flex;
+}
+
+.search {
+  background-color: #2850a7;
+  border: 1px solid #6697ff;
+}
+input {
+  background-color: #2850a7;
+  border: 1px solid #6697ff;
+  color: white;
+  width: 400px;
+}
+.d {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: black;
+}
